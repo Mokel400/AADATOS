@@ -1,0 +1,4 @@
+Carpeta de descargas del organizador de capturas y clips.
+Las capturas (.png) y los clips (.mp4) llevan en el nombre el juego, la fecha y la hora:
+juego_aaaa-mm-dd_hhmm.extension
+Los clips son ficheros de relleno: no son vídeos reales.
